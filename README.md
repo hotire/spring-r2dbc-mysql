@@ -1,4 +1,4 @@
-# Spring R2DBC Mysql
+# Spring R2DBC MySQL
 
 ### Getting Started 
 - https://docs.microsoft.com/ko-kr/azure/developer/java/spring-framework/configure-spring-data-r2dbc-with-azure-mysql
