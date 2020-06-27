@@ -54,6 +54,7 @@
             <groupId>dev.miku</groupId>
             <artifactId>r2dbc-mysql</artifactId>
             <version>${r2dbc.mysql}</version>
+            <scope>runtime</scope>
         </dependency>
     </dependencies>
 
