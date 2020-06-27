@@ -1,4 +1,4 @@
-package com.github.hotire.r2dbc;
+package com.github.hotire.r2dbc.config;
 
 import io.r2dbc.spi.ConnectionFactory;
 import org.springframework.beans.factory.annotation.Qualifier;
